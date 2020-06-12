@@ -17,6 +17,8 @@ Android: zxing
 
 ![demo](./doc/demo.jpg)
 
+![demo](./doc/demo2.png)
+
 ## 参考
 - Android实现录屏直播（一）ScreenRecorder的简单分析：https://blog.csdn.net/zxccxzzxz/article/details/54150396
 - 有关Android截图与录屏功能的学习：https://www.jianshu.com/p/d7eb518195fd
