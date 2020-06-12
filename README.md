@@ -10,8 +10,8 @@
 
 ## 库
 
-Python: PyAVC、PyAudio、PyQt5、qrcode
-Android: zxing
+- Python: PyAVC、PyAudio、PyQt5、qrcode
+- Android: zxing
 
 ## 样例
 
