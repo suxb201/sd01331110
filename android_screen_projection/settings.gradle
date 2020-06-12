@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "android_screen_projection"
